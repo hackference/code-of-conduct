@@ -29,10 +29,10 @@ with open(coc_file, 'r') as f:
         name=name,
         description=description,
         type=type,
-        organiser_name=organiser_name,
-        organiser_number=organiser_number,
-        organiser_2_name=organiser_2_name,
-        organiser_2_number=organiser_2_number,
+        contact_name=organiser_name,
+        contact_number=organiser_number,
+        second_contact_name=organiser_2_name,
+        second_contact_number=organiser_2_number,
         law_enforcement_number=law
     )
 with open(coc_file, 'w') as f:
