@@ -1,30 +1,36 @@
-# Code of Conduct for {{ name }}
+# Code of Conduct for Hackference 2015
 
-{{ description }}
+Hackference is a conference and hackathon based around learning and inspiring developers to hack.
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of {{ name }} are expected to show respect and courtesy to other people throughout the event, whether they are officially part of a {{ name }} event or not.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of Hackference 2015 are expected to show respect and courtesy to other people throughout the event, whether they are officially part of a Hackference 2015 event or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any {{ name }} event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Hackference event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
+
+## TL;DR
+
+Don't be a jerk. And if someone asks you to stop, it's a good enough reason for you to do so.
+
+Also, this document may evolve between time of reading and the event so please re-familiarise yourself before the event. If you have any suggestions please make an issue here [https://github.com/hackference/code-of-conduct](https://github.com/hackference/code-of-conduct).
 
 ## The Short Version
 
-- {{ name }} is dedicated to providing a harassment-free {{ type }} experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of {{ name }} participants in any form.
+- Hackference 2015 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2015 participants in any form.
 
 - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is *not appropriate* for any venue, including talks and socialising.
 
-- Be kind to others. Do not insult or put down other people. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this {{ type }}.
+- Be kind to others. Do not insult or put down other people. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this conference.
 
 - Attendees violating these rules may be asked to leave the event without a refund at the sole discretion of the organisers.
 
-In addition to these agreements, {{ name }} wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
+In addition to these agreements, Hackference 2015 wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
 
 - Be friendly and patient.
-- Be welcoming towards everyone. This includes new attendees at {{ name }} and especially those who are still learning.
+- Be welcoming towards everyone. This includes new attendees at Hackference 2015 and especially those who are still learning.
 - Be considerate of others and treat them as you wish to be treated.
 
 In short: *be excellent towards each other.*
 
-Thank you for helping make this a welcoming, friendly {{ type }} for all.
+Thank you for helping make this a welcoming, friendly conference for all.
 
 ## The Longer Version
 
@@ -32,22 +38,23 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors, sponsors or vendor booths, or similar activities associated with the {{ type }} in anyway at all are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. No booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Exhibitors, sponsors or vendor booths, or similar activities associated with the conference in anyway at all are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. No booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for {{ name }}.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Hackference 2015.
 
-If a participant engages in behavior that violates this code of conduct, the {{ type }} organisers may take any action they deem appropriate, including warning the offender or expulsion from the {{ type }} with no refund.
+If a participant engages in behavior that violates this code of conduct, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of {{ name }} staff. {{ name }} staff will be pointed out to you at the beginning of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of Hackference 2015 staff or a volunteer. Hackference 2015 staff will be pointed out to you at the beginning of the event.
 
 If the matter is especially urgent, please call or contact any of these individuals:
 
-- {{ contact_name }} at {{ contact_number }}
-- {{ second_contact_name }} at {{ second_contact_number }}
+- Mike Elsmore at +44 7816961602 or mike@hackference.co.uk
 
-{{ name }} staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+An anonymous number will be available closer to the event.
+
+Hackference 2015 staff and volunteers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 ## Procedure for Handling Harassment
 
@@ -55,7 +62,7 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all {{ name }} staff will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
+1\. Keep in mind that all Hackference 2015 staff and volunteers will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
 for handling harassment at the conference.
 
 2\. Report the harassment incident (preferably in writing) to a staff member. All reports
@@ -66,7 +73,7 @@ interview people about the incident. Staff will assist you in writing the report
 
 The important information consists of:
 
-- Identifying information (name/badge number) of the participant doing the harassing.
+- Identifying information (name) of the participant doing the harassing.
 - The behavior that was in violation.
 - The approximate time of the behavior (if different than the time the report was made).
 - The circumstances surrounding the incident.
@@ -74,15 +81,15 @@ The important information consists of:
 
 The staff are well informed on how to deal with the incident and how to further proceed with the situation.
 
-3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing {{ law_enforcement_number }}. If you do not have a cell phone, you can simply ask a staff member.
+3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing +44 121 626 5000. If you do not have a cell phone, you can simply ask a staff member.
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. {{ name }} staff requests that they be your first resource when reporting a {{ name }}-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. Hackference staff requests that they be your first resource when reporting a Hackference-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
 
-If at all possible, all reports should be made directly to the {{ name }} organisers mentioned above.
+If at all possible, all reports should be made directly to the Hackference organisers mentioned above.
 
 ## Staff Procedure for incident handling
 
-All staff for {{ name }} will have been briefed on the following procedures for helping you to help with your safety.
+All staff for Hackference 2015 will have been briefed on the following procedures for helping you to help with your safety.
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
@@ -96,7 +103,7 @@ Try to get as much of the incident in writing from the reporter. If you cannot, 
  - The circumstances surrounding the incident.
  - Other people involved in the incident.
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for {{ name }}. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for Hackference 2015. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including staff is in doubt, summon security or police.
  - Offer the victim a private place to sit.
@@ -148,3 +155,6 @@ If some attendees were angered by the incident, it is best to apologize to them 
 ## License
 
 This Code of Conduct was forked from the [Pycon US policy](https://github.com/python/pycon-code-of-conduct), which was originally forked from the [Geek Feminism wiki, created by the Ada Initiate and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero](http://creativecommons.org/licenses/by/3.0/) license.
+
+## Credits
+Thank you to [Paul Hallett](http://phalt.co/) and [Orlando Kalossakas](https://twitter.com/orliesaurus) for creating the [template](https://github.com/phalt/code-of-conduct) .

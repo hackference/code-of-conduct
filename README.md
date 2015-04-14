@@ -1,3 +1,7 @@
+# Hackference Code of Conduct
+
+You can view the completed code of conduct here [code-of-conduct.md](code-of-conduct.md).
+
 # Code of Conduct template
 
 This is an open source generic *code of conduct* template suitable for user groups or conferences.
