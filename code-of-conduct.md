@@ -14,7 +14,7 @@ Also, this document may evolve between time of reading and the event so please r
 
 ## The Short Version
 
-- Hackference 2016 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2016 participants in any form.
+- Hackference 2016 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2016 participants in any form.
 
 - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is *not appropriate* for any venue, including talks and socialising.
 
