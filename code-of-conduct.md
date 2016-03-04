@@ -4,7 +4,7 @@ Hackference is a conference and hackathon based around learning and inspiring de
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of Hackference 2016 are expected to show respect and courtesy to other people throughout the event. This applies to everyone whether or not they are officially part of the Hackference 2016 event.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Hackference event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
+To make clear what is expected: all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Hackference event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
 
 ## TL;DR
 
