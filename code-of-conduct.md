@@ -1,8 +1,8 @@
-# Code of Conduct for Hackference 2016
+# Code of Conduct for Hackference 2017
 
 Hackference is a conference and hackathon based around learning and inspiring developers to hack.
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of Hackference 2016 are expected to show respect and courtesy to other people throughout the event. This applies to everyone whether or not they are officially part of the Hackference 2016 event.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of Hackference 2017 are expected to show respect and courtesy to other people throughout the event. This applies to everyone whether or not they are officially part of the Hackference 2017 event.
 
 To make clear what is expected: all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Hackference event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event and any subsequent days that this event occurs over.
 
@@ -14,7 +14,7 @@ Also, this document may evolve between time of reading and the event so please r
 
 ## The Short Version
 
-- Hackference 2016 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2016 participants in any form.
+- Hackference 2017 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2017 participants in any form.
 
 - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is *not appropriate* for any venue, including talks and socialising.
 
@@ -22,10 +22,10 @@ Also, this document may evolve between time of reading and the event so please r
 
 - Attendees violating these rules may be asked to leave the event without a refund at the sole discretion of the organisers.
 
-In addition to these agreements, Hackference 2016 wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
+In addition to these agreements, Hackference 2017 wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
 
 - Be friendly and patient.
-- Be welcoming towards everyone. This includes new attendees at Hackference 2016 and especially those who are still learning.
+- Be welcoming towards everyone. This includes new attendees at Hackference 2017 and especially those who are still learning.
 - Be considerate of others and treat them as you wish to be treated.
 
 In short: *be excellent towards each other.*
@@ -40,21 +40,22 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Exhibitors, sponsors or vendor booths, or similar entities/activities associated with the conference in any way are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. No booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Hackference 2016.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Hackference 2017.
 
 If a participant engages in behavior that violates this code of conduct, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of Hackference 2016 staff or a volunteer. Hackference 2016 staff will be pointed out to you at the beginning of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of Hackference 2017 staff or a volunteer. Hackference 2017 staff will be pointed out to you at the beginning of the event.
 
 If the matter is especially urgent, please call or contact any of these individuals:
 
 - Mike Elsmore at +44 7816961602 or mike@hackference.co.uk
+- Matthew Revelle at hackference@hoopy.io
 
 An anonymous number will be available closer to the event.
 
-Hackference 2016 staff and volunteers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Hackference 2017 staff and volunteers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 ## Procedure for Handling Harassment
 
