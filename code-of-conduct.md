@@ -63,7 +63,7 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all Hackference 2016 staff and volunteers will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
+1\. Keep in mind that all Hackference 2017 staff and volunteers will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
 for handling harassment at the conference.
 
 2\. Report the harassment incident (preferably in writing) to a staff member. All reports
@@ -90,7 +90,7 @@ If at all possible, all reports should be made directly to the Hackference organ
 
 ## Staff Procedure for incident handling
 
-All staff for Hackference 2016 will have been briefed on the following procedures for helping you to help with your safety.
+All staff for Hackference 2017 will have been briefed on the following procedures for helping you to help with your safety.
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
@@ -104,7 +104,7 @@ Try to get as much of the incident in writing from the reporter. If you cannot, 
  - The circumstances surrounding the incident.
  - Other people involved in the incident.
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for Hackference 2016. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for Hackference 2017. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including staff is in doubt, summon security or police.
  - Offer the victim a private place to sit.
