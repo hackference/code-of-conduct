@@ -38,7 +38,7 @@ Harassment includes: offensive verbal comments related to gender, gender identit
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors, sponsors or vendor booths, or similar entities/activities associated with the conference in any way are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. No booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Exhibitors, sponsors or vendor booths, or similar entities/activities associated with the conference in any way are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not wear, give away or otherwise use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment while at Hackference 2017.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Hackference 2017.
 
