@@ -14,7 +14,7 @@ Also, this document may evolve between time of reading and the event so please r
 
 ## The Short Version
 
-- Hackference 2017 is dedicated to providing a harassment-free conference experience for everyone, regardless of any personal characteristic including, but not limited too: gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2017 participants in any form.
+- Hackference 2017 is dedicated to providing a harassment-free conference experience for everyone, regardless of any personal characteristic including, but not limited to: gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of Hackference 2017 participants in any form.
 
 - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is *not appropriate* for any venue, including talks and socialising.
 
@@ -38,7 +38,7 @@ Harassment includes: offensive verbal comments related to gender, gender identit
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors, sponsors or vendor booths, or similar entities/activities associated with the conference in any way are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not wear, give away or otherwise use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment while at Hackference 2017.
+Exhibitors, sponsors or vendor booths, or similar entities/activities associated with the conference in any way, are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not wear, give away or otherwise use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment while at Hackference 2017.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Hackference 2017.
 
@@ -63,14 +63,11 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all Hackference 2017 staff and volunteers will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
-for handling harassment at the conference.
+1\. Keep in mind that all Hackference 2017 staff and volunteers will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide for handling harassment at the conference.
 
-2\. Report the harassment incident (preferably in writing) to a staff member. All reports
-are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees.
+2\. Report the harassment incident (preferably in writing) to a staff member. All reports are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees'.
 
-When reporting the event to staff, try to gather as much information as available but do not
-interview people about the incident. Staff will assist you in writing the report/collecting information.
+When reporting the event to staff, try to gather as much information as available but do not interview people about the incident. Staff will assist you in writing the report/collecting information.
 
 The important information consists of:
 
@@ -82,9 +79,9 @@ The important information consists of:
 
 The staff are well informed on how to deal with the incident and how to further proceed with the situation.
 
-3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing +44 121 626 5000. If you do not have a cell phone, you can simply ask a staff member.
+3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety is in jeopardy please do not hesitate to contact local law enforcement by dialing +44 121 626 5000. If you do not have a cell phone, you can simply ask a staff member.
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. Hackference staff requests that they be your first resource when reporting a Hackference-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. Hackference staff request that they be your first resource when reporting a Hackference-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
 
 If at all possible, all reports should be made directly to the Hackference organisers mentioned above.
 
@@ -94,9 +91,9 @@ All staff for Hackference 2017 will have been briefed on the following procedure
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-Please make sures that you and other organisers have read this document in its entirety to ensure everyone helping to run this is event is aware of the code of conduct and it's procedures.
+Please make sure that you and other organisers have read this document in its entirety to ensure everyone helping to run this event is aware of the code of conduct and its procedures.
 
-Try to get as much of the incident in writing from the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+Try to get as much of the incident in writing from the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather includes the following:
 
  - Identifying information (name/badge number) of the participant doing the harassing.
  - The behavior that was in violation.
@@ -106,7 +103,7 @@ Try to get as much of the incident in writing from the reporter. If you cannot, 
 
 Prepare an initial response to the incident. This initial response is very important and will set the tone for Hackference 2017. Depending on the severity/details of the incident, please follow these guidelines:
 
- - If there is any general threat to attendees or the safety of anyone including staff is in doubt, summon security or police.
+ - If there is any general threat to attendees, or the safety of anyone including staff is in doubt, summon security or police.
  - Offer the victim a private place to sit.
  - Ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person).
  - Ask them "how can I help?".
@@ -143,7 +140,7 @@ Some things for the staff to consider when dealing with Code of Conduct offender
 - Requiring that the harasser immediately leave the event and not return.
 - Banning the harasser from future events (either indefinitely or for a certain time period).
 - Removing a harasser from membership of relevant organizations.
-- Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful).
+- Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar; typically event staff have sufficient governing rights over their space that this isn't as useful).
 
 Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
 
