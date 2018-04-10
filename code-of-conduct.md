@@ -51,7 +51,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 If the matter is especially urgent, please call or contact any of these individuals:
 
 * Mike Elsmore at +44 7816961602 or mike@hackference.co.uk
-* Matthew Revelle at hackference@hoopy.io
 
 An anonymous number will be available closer to the event.
 
